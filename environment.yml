@@ -1,0 +1,8 @@
+name: covid_gdp
+dependencies: 
+  - numpy
+  - pandas
+  - geopandas
+  - descartes
+  - sklearn
+  - pyproj
